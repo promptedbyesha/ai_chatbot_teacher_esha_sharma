@@ -54,6 +54,8 @@
 ---
 
 ## 🎥 Demo & Assignment
+## 🌐 Live Demo
+[Try the AI Chatbot Teacher App](https://aichatbotteachereshasharma.streamlit.app/)
 
 
 
